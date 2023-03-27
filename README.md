@@ -1,5 +1,3 @@
-## Responsive Landing Page
-
 # ![img](images/helloHairSetA.png)
 
 ### Built With
