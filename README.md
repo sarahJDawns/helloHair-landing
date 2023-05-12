@@ -1,4 +1,6 @@
-# ![img](images/helloHairSetA.png)
+# Responsive Landing Page
+
+![img](images/helloHairSetA.png)
 
 ### Built With
 
